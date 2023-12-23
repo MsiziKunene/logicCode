@@ -1,0 +1,20 @@
+Write a program in JavaScript that will display the following loop
+Output1
+                1
+                22
+                333
+                4444
+                55555
+                .
+                .
+                .
+                .
+                20
+
+Output2
+            *
+           ***
+          *****
+           ***
+            **
+            * 
